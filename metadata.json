@@ -1,0 +1,7 @@
+{
+  "name": "Diet.ai",
+  "description": "Um Micro SaaS com IA que gera receitas personalizadas com base nos ingredientes disponíveis ou fotos da geladeira.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
